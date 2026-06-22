@@ -3,6 +3,9 @@
 
 # Guía: Dashboard de Envíos en Power BI Desktop
 
+<img width="899" height="333" alt="image" src="https://github.com/user-attachments/assets/4449d0a4-73e0-41ea-88d8-4632e1f379a4" />
+
+
 ## 1. Importar los datos
 1. Abre **Power BI Desktop**.
 2. **Inicio → Obtener datos → Excel**.
