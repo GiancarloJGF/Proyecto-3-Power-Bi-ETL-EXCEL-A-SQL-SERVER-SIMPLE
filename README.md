@@ -47,7 +47,8 @@ DIVIDE([Total Envios], CALCULATE([Total Envios], ALL(Envios[Transportadora])))
 - Línea (eje secundario): `[Costo Total]`.
 - Agrega 3 **tarjetas (Card)** arriba con: `[Total Envios]`, `[Costo Total]`, `[Peso Total Kg]`.
 
-<img width="1576" height="533" alt="image" src="https://github.com/user-attachments/assets/3a3af954-a71a-4264-91c1-d5aa0c7faa7b" />
+<img width="726" height="489" alt="image" src="https://github.com/user-attachments/assets/6137d9a2-49fe-419e-8296-c58d86422be9" />
+
 
 
 ### Página 2 — Envíos por empresa transportadora
@@ -55,7 +56,8 @@ DIVIDE([Total Envios], CALCULATE([Total Envios], ALL(Envios[Transportadora])))
 - Inserta un **gráfico de barras**: Eje = `Transportadora`, Valor = `[Costo Total]`.
 - Agrega una **tabla**: `Transportadora`, `[Total Envios]`, `[% Participacion Transportadora]`, `[Costo Total]`, `[Peso Total Kg]`.
 
-<img width="1779" height="506" alt="image" src="https://github.com/user-attachments/assets/89e8b738-a941-427f-9e46-3c2c9e0fa939" />
+<img width="722" height="571" alt="image" src="https://github.com/user-attachments/assets/73a5fd0d-a27f-4638-bfd0-4b1f8cdea106" />
+
 
 
 ### Página 3 — Empresas con mayor tasa de envío
@@ -64,7 +66,8 @@ DIVIDE([Total Envios], CALCULATE([Total Envios], ALL(Envios[Transportadora])))
 - Agrega una **tabla**: `Cliente`, `[Total Envios]`, `[% Participacion Cliente]`, `[Costo Total]`.
 - Opcional: agrega **barras de datos** (formato condicional) a la columna de envíos.
 
-<img width="1474" height="556" alt="image" src="https://github.com/user-attachments/assets/82bba014-da9e-4f98-ba27-eefa1a78e960" />
+<img width="726" height="625" alt="image" src="https://github.com/user-attachments/assets/9ec5bfdf-c656-4aec-ad69-04204b1f682b" />
+
 
 
 ## 5. Filtros recomendados (segmentadores) en cada página
