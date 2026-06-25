@@ -3,7 +3,8 @@
 
 # Guía: Dashboard de Envíos en Power BI Desktop
 
-<img width="899" height="333" alt="image" src="https://github.com/user-attachments/assets/4449d0a4-73e0-41ea-88d8-4632e1f379a4" />
+<img width="724" height="480" alt="image" src="https://github.com/user-attachments/assets/9d7b983e-abda-4684-9860-b5379e917c36" />
+
 
 
 ## 1. Importar los datos
